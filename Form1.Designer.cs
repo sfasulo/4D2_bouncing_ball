@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            ball = new Ball(this,300,300,0,0,4,4);
             this.components = new System.ComponentModel.Container();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.SuspendLayout();
@@ -36,7 +37,7 @@
             // 
             this.timer1.Enabled = true;
             this.timer1.Interval = 10;
-            this.timer1.Tick += new System.EventHandler(this.MoveBall);
+            this.timer1.Tick += new System.EventHandler(ball.MoveBall);
             // 
             // Form1
             // 
@@ -45,7 +46,7 @@
             this.ClientSize = new System.Drawing.Size(963, 370);
             this.Name = "Form1";
             this.Text = "Form1";
-            this.Paint += new System.Windows.Forms.PaintEventHandler(this.PaintCircle);
+            this.Paint += new System.Windows.Forms.PaintEventHandler(ball.PaintCircle);
             this.ResumeLayout(false);
 
         }

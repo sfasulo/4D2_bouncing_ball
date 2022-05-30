@@ -8,3 +8,13 @@ C:\Users\docentei\Documents\Fasulo\4D2_bouncing_ball\obj\Debug\BouncingBall.cspr
 C:\Users\docentei\Documents\Fasulo\4D2_bouncing_ball\obj\Debug\BouncingBall.csproj.CoreCompileInputs.cache
 C:\Users\docentei\Documents\Fasulo\4D2_bouncing_ball\obj\Debug\BouncingBall.exe
 C:\Users\docentei\Documents\Fasulo\4D2_bouncing_ball\obj\Debug\BouncingBall.pdb
+C:\Users\studente4i\Documents\Sbalchiero\TPSIT\4D2_bouncing_ball\bin\Debug\BouncingBall.exe.config
+C:\Users\studente4i\Documents\Sbalchiero\TPSIT\4D2_bouncing_ball\bin\Debug\BouncingBall.exe
+C:\Users\studente4i\Documents\Sbalchiero\TPSIT\4D2_bouncing_ball\bin\Debug\BouncingBall.pdb
+C:\Users\studente4i\Documents\Sbalchiero\TPSIT\4D2_bouncing_ball\obj\Debug\BouncingBall.csproj.AssemblyReference.cache
+C:\Users\studente4i\Documents\Sbalchiero\TPSIT\4D2_bouncing_ball\obj\Debug\BouncingBall.Form1.resources
+C:\Users\studente4i\Documents\Sbalchiero\TPSIT\4D2_bouncing_ball\obj\Debug\BouncingBall.Properties.Resources.resources
+C:\Users\studente4i\Documents\Sbalchiero\TPSIT\4D2_bouncing_ball\obj\Debug\BouncingBall.csproj.GenerateResource.cache
+C:\Users\studente4i\Documents\Sbalchiero\TPSIT\4D2_bouncing_ball\obj\Debug\BouncingBall.csproj.CoreCompileInputs.cache
+C:\Users\studente4i\Documents\Sbalchiero\TPSIT\4D2_bouncing_ball\obj\Debug\BouncingBall.exe
+C:\Users\studente4i\Documents\Sbalchiero\TPSIT\4D2_bouncing_ball\obj\Debug\BouncingBall.pdb
