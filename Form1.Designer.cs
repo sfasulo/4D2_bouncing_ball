@@ -36,7 +36,7 @@
             // 
             this.timer1.Enabled = true;
             this.timer1.Interval = 10;
-            this.timer1.Tick += new System.EventHandler(this.MoveBall);
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
             // Form1
             // 
@@ -45,7 +45,6 @@
             this.ClientSize = new System.Drawing.Size(963, 370);
             this.Name = "Form1";
             this.Text = "Form1";
-            this.Paint += new System.Windows.Forms.PaintEventHandler(this.PaintCircle);
             this.ResumeLayout(false);
 
         }
